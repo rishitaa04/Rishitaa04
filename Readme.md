@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **"Swara Foundation website"**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **New things everyday**
 
 - 💬 Ask me about **Web Development**
 

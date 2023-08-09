@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **rishitasinh04@gmail.com**
 
+[![Rishita GitHub stats](https://github-readme-stats.vercel.app/api?username=mkgupta01&show_icons=true&theme=dark)](https://github.com/rishitaa04/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rishita50252792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishita50252792" height="40" width="50" /></a>
